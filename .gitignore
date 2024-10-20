@@ -1,0 +1,5 @@
+# Ignorar node_modules en cualquier nivel del proyecto
+node_modules/
+
+# Ignorar dist en my-first-app
+courseFaztCode/my-first-app/dist/
